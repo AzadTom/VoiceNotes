@@ -24,7 +24,7 @@ this is helpful for those who can not write & not educated well even can use thi
 # Screenshots From this project
 ## You can Install and test VoiceNotes Android App from below 👇
 
-[![VoiceNotes](https://img.shields.io/badge/VoiceNotes-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/VoiceNotes/blob/master/app/release/app-release.apk)
+[![VoiceNotes](https://img.shields.io/badge/VoiceNotes-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/VoiceNotes/raw/master/app/release/app-release.apk)
 
 
 <p align="center">
