@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceNotes</string>
+    <string name="hint_search_query">Search</string>
+</resources>
